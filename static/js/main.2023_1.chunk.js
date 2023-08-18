@@ -598,35 +598,35 @@
                             }),
                             Object(g.jsxs)(o.l, {
                                 children: [Object(g.jsx)(I, {
-                                    title: "🌐 \u0424\u043E\u0440\u0443\u043C\u0020 «\u0045\u006E\u0064\u0057\u0061\u0079»",
+                                    title: "🌐 «test1»",
                                     link: "https://6a1m0n.github.io",
                                     telegram: "https://6a1m0n.github.io",
                                     job: "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u002f\u0421\u043e\u002d\u041e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u044c",
                                     work: "2022now",
                                     odnoras: "❌"
                                 }), Object(g.jsx)(I, {
-                                    title: '📜 \u0422\u0435\u043b\u0435\u0433\u0440\u0430\u043c\u0020\u043a\u0430\u043d\u0430\u043b\u000d\u000a «\u0045\u006e\u0064\u0020\u0053\u006f\u0066\u0074»',
+                                    title: '📜 «test2»',
                                     telegram: "https://6a1m0n.github.io",
                                     job: "\u0420\u0435\u0434\u0430\u043a\u0442\u043e\u0440",
                                     work: "2022now",
                                     odnoras: "❌"
                                 }),
                                 Object(g.jsx)(I, {
-                                    title: '🤖 \u0422\u0435\u043B\u0435\u0433\u0440\u0430\u043C\u0020\u0431\u043E\u0442 «\u041F\u043E\u043C\u043E\u0449\u043D\u0438\u043A\u0020\u0410\u0440\u0431\u0438\u0442\u0440\u0430\u0436\u043D\u0438\u043A\u0430»',
+                                    title: '🤖 «test3»',
                                     telegram: "https://6a1m0n.github.io",
                                     job: "\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u002F\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440",
                                     work: "2023now",
                                     odnoras: "❌"
                                 }),
                                 Object(g.jsx)(I, {
-                                    title: '🤖 \u0422\u0435\u043B\u0435\u0433\u0440\u0430\u043C\u0020\u0431\u043E\u0442 «\u0053\u0075\u006E\u0072\u0069\u0073\u0065\u0020\u004B\u0046\u0020\u004D\u006F\u006E\u0069\u0074\u006F\u0072\u0069\u006E\u0067»',
+                                    title: '🤖 «test4»',
                                     telegram: "https://6a1m0n.github.io",
                                     job: "\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u002F\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440",
                                     work: "2023now",
                                     odnoras: "❌"
                                 }),
                                 Object(g.jsx)(Y, {
-                                    title: '🤖 \u0422\u0435\u043B\u0435\u0433\u0440\u0430\u043C\u0020\u0431\u043E\u0442 «\u041C\u0430\u0441\u0441\u0430\u0436\u0020\u041D\u0430\u0442\u0430\u043B\u044C\u044F»',
+                                    title: '🤖 «test5»',
                                     telegram: "https://6a1m0n.github.io",
                                     job: "\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A",
                                     //work: "",
