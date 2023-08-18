@@ -595,7 +595,7 @@
                                 level: "1",
                                 weight: "semibold",
                                 children: "\u041e\u043f\u044b\u0442\u0020\u0440\u0430\u0431\u043e\u0442\u044b"
-                            }), 
+                            }), /*
                             Object(g.jsxs)(o.l, {
                                 children: [Object(g.jsx)(I, {
                                     title: "🌐 \u0424\u043E\u0440\u0443\u043C\u0020 «\u0045\u006E\u0064\u0057\u0061\u0079»",
@@ -630,7 +630,7 @@
                                     telegram: "https://t.me/6a1m0n",
                                     job: "\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A",
                                     //work: "",
-                                    odnoras: "✅"
+                                    odnoras: "✅" */
                                 })
                             ]
                             })]
