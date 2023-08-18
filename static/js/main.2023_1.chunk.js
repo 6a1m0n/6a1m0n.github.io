@@ -627,7 +627,7 @@
                                 }),
                                 Object(g.jsx)(Y, {
                                     title: '🤖 \u0422\u0435\u043B\u0435\u0433\u0440\u0430\u043C\u0020\u0431\u043E\u0442 «\u041C\u0430\u0441\u0441\u0430\u0436\u0020\u041D\u0430\u0442\u0430\u043B\u044C\u044F»',
-                                    telegram: "https://t.me/developereva",
+                                    telegram: "https://t.me/6a1m0n",
                                     job: "\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A",
                                     //work: "",
                                     odnoras: "✅"
@@ -710,7 +710,7 @@
                                 maxWidth: "280px",
                                 children: Object(g.jsxs)(o.p, {
                                     children: [z && Object(g.jsx)(o.q, {
-                                        children: "Developereva"
+                                        children: "6a1m0n"
                                     }), Object(g.jsxs)(o.j, {
                                         children: [Object(g.jsx)(o.e, {
                                             disabled: "me" === a,
