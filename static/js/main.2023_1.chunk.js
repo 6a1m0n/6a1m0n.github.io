@@ -114,7 +114,7 @@
                                     style: {
                                         marginTop: "16px"
                                     },
-                                    children: "SiteDept"
+                                    children: "6a1m0n"
                                 })
                             }), Object(g.jsx)(o.y, {
                                 level: "3",
@@ -304,7 +304,7 @@
                                     color: "#F0F6FC",
                                     background: "#25A3E2"
                                 },
-                                "data-href": "https://t.me/developereva",
+                                "data-href": "https://t.me/6a1m0n",
                                 size: "l",
                                 children: "Telegram"
                             }),   Object(g.jsx)(o.d, {
@@ -317,7 +317,7 @@
                                     color: "#F0F6FC",
                                     background: "#0077ff"
                                 },
-                                "data-href": "mailto:developereva@protonmail.com",
+                                "data-href": "mailto:6a1m0n@protonmail.com",
                                 size: "l",
                                 children: "Mail"
                             }), Object(g.jsx)(o.d, {
@@ -330,7 +330,7 @@
                                     color: "#F0F6FC",
                                     background: "#27303D"
                                 },
-                                "data-href": "https://github.com/Developerreva",
+                                "data-href": "https://github.com/6a1m0n",
                                 size: "l",
                                 children: "GitHub"
                             })]
